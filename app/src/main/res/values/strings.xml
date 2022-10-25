@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android Application Navigation and Lifecycle</string>
+    <string name="btn_go_to_next_fragment">Go to next fragment</string>
+    <string name="btn_go_to_next_activity">Go to next activity</string>
+    <string name="fragment_a">Fragment 1</string>
+    <string name="fragment_b">Fragment 2</string>
+    <string name="fragment_c">Fragment 3</string>
+    <string name="fragment_d">Fragment 4</string>
+    <string name="edit_text_title">Enter title</string>
+    <string name="msg_no_empty_title">Title is required, can not be empty</string>
+    <string name="intent_argument_title">title</string>
+    <string name="intent_argument_title_not_found">Argument not found</string>
+    <string name="main_activity_title">Navigation and Lifecycle</string>
+    <string name="second_activity_title">Title: %1$s</string>
+</resources>
